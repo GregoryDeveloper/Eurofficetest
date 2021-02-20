@@ -24,22 +24,22 @@ I like automapper that makes the basic mapping much easier. I think AutoFixture 
 
 I think pattern matching is nice, if it is about C# 9, records look good but I have never got the chance to use them yet.
 ## 8. Describe yourself in JSON.
-{
+{  
 	"firstname": "Gregory",  
-	"lastname": "Libert",
-	"age": 26,
-	"nationality": "Belgian",
-	"skills": [
-		"C#",
-		"Dotnet core",
-		"Sql",
-		"Azure",
-		"html",
-		"css"
-	],
-	"experienceInYear": 4,
-	"languages": [
-		"french",
-		"english"
-	]
-}
+	"lastname": "Libert",  
+	"age": 26,  
+	"nationality": "Belgian",  
+	"skills": [  
+		"C#",  
+		"Dotnet core",  
+		"Sql",  
+		"Azure",  
+		"html",  
+		"css"  
+	],  
+	"experienceInYear": 4,  
+	"languages": [  
+		"french",  
+		"english"  
+	]  
+}  
